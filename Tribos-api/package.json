@@ -1,0 +1,12 @@
+{
+  "name": "Tribos-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gabriela M. F. Poncet e Pablo S. Herzberg",
+  "license": "ISC"
+}
