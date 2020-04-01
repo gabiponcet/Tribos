@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "Gabriela M. F. Poncet e Pablo S. Herzberg",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "sqlite3": "^4.1.1"
+  }
 }
